@@ -8,3 +8,4 @@ favorite path javascript
 * git
 * javascript
 * html
+* Killing history using git rebase
